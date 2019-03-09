@@ -15,7 +15,7 @@ def prime?(n)
     elsif n == 2
         true
     else
-        for i in 2..n-1 
+        for i in 2..n-1
           if n % i == 0}
             false
           else
